@@ -1,0 +1,26 @@
+{
+  "name": "react-labels",
+  "version": "1.0.0",
+  "description": "A simple React Component to manage permissions/tags/labels/flags",
+  "main": "TagComponent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/symmetriccurve/react-labels.git"
+  },
+  "keywords": [
+    "React",
+    "React-labels",
+    "tags",
+    "permissions",
+    "labels"
+  ],
+  "author": "VIKRAM BELDE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/symmetriccurve/react-labels/issues"
+  },
+  "homepage": "https://github.com/symmetriccurve/react-labels#readme"
+}
